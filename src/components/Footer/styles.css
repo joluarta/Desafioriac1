@@ -1,0 +1,8 @@
+
+.my-footer .mynav{
+    background-color: pink;
+}
+
+.my-footer .mynav ul{
+    flex-direction: column;
+}

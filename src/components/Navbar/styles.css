@@ -1,0 +1,22 @@
+.mynav{
+    height: 96px;
+    width: 100%;
+    background-color: black;
+    color: white;
+}
+.mynav ul{
+    display: flex;
+    flex-direction: row;
+    justify-content:  flex-start;
+    width: 100%;
+    list-style-type: none;
+}
+
+.mynav ul li{
+    margin-right: 40px;
+}
+
+.mynav ul li a{
+    color: white;
+    text-decoration: none;
+}

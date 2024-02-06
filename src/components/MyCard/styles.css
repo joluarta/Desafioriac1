@@ -1,0 +1,7 @@
+.MyCard{
+    display: flex;
+    flex-direction: row;
+    justify-content:  flex-start;
+    width: 100%;
+    list-style-type: none;
+}
